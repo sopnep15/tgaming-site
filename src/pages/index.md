@@ -1,21 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: T Gaming
+image: /img/1.png
+heading: Awesome gaming
+subheading: Gaming skills by learning and playing
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Why T gaming
+  description: >-
+    Because its awesome! I like showing and learning about new tactics in lots
+    of games from other gamers and friends.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  T Gaming is a blog for gaming, trying new games and skills, finding tons of
+  secrets in video games.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -47,24 +43,21 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    I offer skills and tactics for gamers who need advice on games so they are
+    not using cheats to win games also so others play fair game.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Great gaming skills for learning and trying
+  description: >-
+    This blog is about gaming, its not for the fun of it though but its for
+    other gamers to get they're time on a video that's sent online.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: A T-Gaming Logo with a background of blue and red flames
+    image: /img/2.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: T-Gaming logo
+    image: /img/1.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: T-Gaming
+    image: /img/2.png
 ---
+
