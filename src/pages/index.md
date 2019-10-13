@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: T Gaming
-image: /img/2.jpg
+image: /img/screen-shot-2019-10-13-at-2.32.48-pm.png
 heading: Awesome gaming
 subheading: Gaming skills by learning and playing
 mainpitch:
@@ -57,7 +57,7 @@ main:
     alt: T-Gaming logo
     image: /img/1.jpg
   image3:
-    alt: T-Gaming
-    image: /img/1.jpg
+    alt: T-Gaming other option
+    image: /img/screen-shot-2019-10-13-at-2.21.48-pm.png
 ---
 
