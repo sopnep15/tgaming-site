@@ -52,12 +52,12 @@ main:
     other gamers to get they're time on a video that's sent online.
   image1:
     alt: A T-Gaming Logo with a background of blue and red flames
-    image: /img/2.png
+    image: /img/1.jpg
   image2:
     alt: T-Gaming logo
-    image: /img/1.png
+    image: /img/1.jpg
   image3:
     alt: T-Gaming
-    image: /img/2.png
+    image: /img/1.jpg
 ---
 
